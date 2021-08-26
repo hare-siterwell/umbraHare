@@ -14,5 +14,5 @@
 - 💬 _Less Is More_  
 
 ## Some Statistics About Me
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=umbraHare&show_icons=true&line_height=27&theme=tokyonight)](https://github.com/umbraHare/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbraHare&exclude_repo=umbraHare.github.io&hide=java,html,tex&layout=default&langs_count=3&theme=tokyonight)](https://github.com/umbraHare/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=umbraHare&show_icons=true&line_height=27&theme=tokyonight)](https://github.com/umbraHare/umbraHare)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbraHare&exclude_repo=umbraHare.github.io&hide=java,html,tex&layout=default&langs_count=3&theme=tokyonight)](https://github.com/umbraHare/umbraHare)
