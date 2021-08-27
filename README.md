@@ -2,17 +2,9 @@
 - I'm umbraHare, a freelance programmer.  
 
 ## Tags
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white) ![](https://img.shields.io/badge/Editor-VsCode-2bbc8a?logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/Code-C/C++-2bbc8a?logo=c&logoColor=white) ![](https://img.shields.io/badge/Code-Java-2bbc8a?logo=java&logoColor=white) ![](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white) ![](https://img.shields.io/badge/Code-Flutter-2bbc8a?logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Tools-MySQL-2bbc8a?logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
 - 🌱 I’m currently learning ARM
-- 💬 _Less Is More_  
+- 💬 _Less Is More_ Style
 
 ## Some Statistics About Me
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=umbraHare&show_icons=true&line_height=27&theme=tokyonight)](https://github.com/umbraHare/umbraHare)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbraHare&exclude_repo=umbraHare.github.io&hide=java,html,tex&layout=default&langs_count=3&theme=tokyonight)](https://github.com/umbraHare/umbraHare)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=umbraHare&show_icons=true&line_height=27&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbraHare&exclude_repo=umbraHare.github.io&hide=java,html,tex&layout=default&langs_count=3&theme=tokyonight)
