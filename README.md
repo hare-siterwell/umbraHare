@@ -1,9 +1,8 @@
 ## ✨Hi There
-- I'm umbraHare, a freelance programmer.  
+- I'm umbraHare, an unknown programmer.
 
 ## Tags
-![](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white) ![](https://img.shields.io/badge/Editor-VSCode-2bbc8a?logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/Code-C/C++-2bbc8a?logo=c&logoColor=white) ![](https://img.shields.io/badge/Code-Java-2bbc8a?logo=java&logoColor=white) ![](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white) ![](https://img.shields.io/badge/Tools-MySQL-2bbc8a?logo=mysql&logoColor=white)
-- 🌱 I’m currently learning ARM
+![](https://img.shields.io/badge/Code-C/C++-2bbc8a?logo=c&logoColor=white) ![](https://img.shields.io/badge/Code-Flutter-2bbc8a?logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Code-Go-2bbc8a?logo=go&logoColor=white)
 - 💬 _Less Is More_ Style
 
 ## Some Statistics About Me
