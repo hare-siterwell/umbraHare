@@ -6,4 +6,4 @@
 - 💬 _Less Is More_ Style
 
 ## Some Statistics About Me
-![Readme Card](https://github-readme-stats.vercel.app/api?username=umbraHare&show_icons=true&line_height=27&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umbraHare&exclude_repo=umbraHare.github.io&hide=java,html,tex&layout=default&langs_count=3&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=umbraHare&show_icons=true&line_height=27&theme=tokyonight)
